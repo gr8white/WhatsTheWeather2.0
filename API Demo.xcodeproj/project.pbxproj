@@ -12,6 +12,7 @@
 		A8F441A022133AE0001446BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F4419E22133AE0001446BA /* Main.storyboard */; };
 		A8F441A222133AE4001446BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8F441A122133AE4001446BA /* Assets.xcassets */; };
 		A8F441A522133AE4001446BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F441A322133AE4001446BA /* LaunchScreen.storyboard */; };
+		A8F441AF221341C7001446BA /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A8F441AE221341C7001446BA /* background2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A8F441A122133AE4001446BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8F441A422133AE4001446BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8F441A622133AE4001446BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8F441AE221341C7001446BA /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A8F4419A22133AE0001446BA /* AppDelegate.swift */,
 				A8F4419C22133AE0001446BA /* ViewController.swift */,
 				A8F4419E22133AE0001446BA /* Main.storyboard */,
+				A8F441AE221341C7001446BA /* background2.jpg */,
 				A8F441A122133AE4001446BA /* Assets.xcassets */,
 				A8F441A322133AE4001446BA /* LaunchScreen.storyboard */,
 				A8F441A622133AE4001446BA /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8F441A522133AE4001446BA /* LaunchScreen.storyboard in Resources */,
+				A8F441AF221341C7001446BA /* background2.jpg in Resources */,
 				A8F441A222133AE4001446BA /* Assets.xcassets in Resources */,
 				A8F441A022133AE0001446BA /* Main.storyboard in Resources */,
 			);
